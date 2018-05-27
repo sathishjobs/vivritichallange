@@ -1,1 +1,1 @@
-## Vivriti Challange Code
+## Vivriti Code Challange
